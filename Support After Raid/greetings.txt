@@ -1,0 +1,4 @@
+Default|$Thanks {0}! You can visit {0} at www.twitch.tv/{0}
+User1|$Thanks {0}! You can visit {0} at www.twitch.tv/{0} and their https://twitter.com/test1
+User2|$Thanks {0}! You can visit {0} at www.twitch.tv/{0} and their https://twitter.com/testName3542
+TratorDBot|$Gracias Bot de Trator. Puedes visitar al bot de trator en www.twitch.tv/{0} Seguirle en https://twitter.com/Trator7 y ver su código abierto en https://github.com/Trator7
